@@ -11,7 +11,7 @@ PyLib: psycopg2, pandas, openpyxl, win32com.client, os, re, nltk, thefuzz, PyQt5
 PostgreSQL
 
 ## Description
-In this application, it was necessary to deal with the fragmentation of the BI system into individual Excel spreadsheets from which information is extracted into the database. Additionally, there was variation in product naming and numbering. The application is built and fine-tuned for specific projects, but its components can be used generally. Public version is without sensitive datas. If you wish to use the application, it will be necessary to align it with your BI system.
+In this application, it was necessary to deal with the fragmentation of the BI system into individual Excel spreadsheets from which information is extracted into the database. Additionally, there was variation in product naming and numbering. The application is built and fine-tuned for specific projects, but its components can be used generally. After download will not run. If you wish to use the application, it will be necessary to align it with your BI system. This public version is without sensitive datas.
 
 ## Function
 
