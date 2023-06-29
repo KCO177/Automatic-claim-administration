@@ -5,6 +5,7 @@ The application in incoming emails recognizes complaint e-mails and extracts imp
 
 ## Requirements
 Python 3.9
+
 PyLib: psycopg2, pandas, openpyxl, win32com.client, os, re, nltk, thefuzz, PyQt5,cv2, pytesseract, pyzbar, decode, pylibdmtx , PIL
 
 PostgreSQL
