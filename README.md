@@ -1,5 +1,5 @@
 # Automatic-claim-administration
-The application in incoming emails recognizes complaint emails and extracts important information from them, which it processes into a database and prepares pre-filled D3 documents and email messages with appropriate attachments. It also predicts the financial assumptions for settling the complaint. 
+The application in incoming emails recognizes complaint e-mails and extracts important information from them, which it processes into a database and prepares pre-filled D3 documents and email messages with appropriate attachments. It also predicts the financial assumptions for settling the complaint. 
 
 ![schema](https://github.com/KCO177/Automatic-claim-administration/assets/28139409/114a6fee-04f1-4a23-af3c-02d21d7ee800)
 
