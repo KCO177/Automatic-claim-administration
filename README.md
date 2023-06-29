@@ -18,3 +18,5 @@ In this application, it was necessary to deal with the fragmentation of the BI s
 https://github.com/KCO177/Automatic-claim-administration/assets/28139409/03b9a7ab-26a8-42a1-a92a-93b3c96f45c1
 
 
+## Run function
+run_gui.py
